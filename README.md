@@ -21,3 +21,11 @@ This whas my last examining project that i completed on my own.
 
 For more info: Check the repositories README.MD
 
+
+## Skills :unlock:
+---
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,github,mongodb,postman,powershell,bootstrap,azure,html,css&perline=5)](https://skillicons.dev)
+
+
+
+
