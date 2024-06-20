@@ -8,18 +8,7 @@ This is a passion project that combines my interest for fullstack development an
 For more info: Check the repositories README.MD
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Heimbrand&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats) 
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Heimbrand&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="" 
-    bg_color=#808080/>
-</p>
 
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Heimbrand&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="" />
-</p>
-
-<br>
 
 # Older projects from school :file_folder:
 
@@ -40,6 +29,23 @@ For more info: Check the repositories README.MD
 ---
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,github,mongodb,mysql,postman,powershell,bootstrap,azure,html,css&perline=5)](https://skillicons.dev)
          
+---
+
+## Stats :blue_book:
+---
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Heimbrand&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="" 
+    bg_color=#808080/>
+</p>
+
+<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Heimbrand&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="" />
+</p>
+
+<br>
+
 ---
 
 
