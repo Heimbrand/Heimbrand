@@ -1,4 +1,9 @@
 ## Hello!👋 and welcome to my Portfolio :briefcase: 
+Email :envelope: : **Olle.Heimbrand@hotmail.se**
+
+Phone :phone: : 0735 100616
+
+LinkedIn :computer: : [Olle Heimbrand](https://www.linkedin.com/in/olle-heimbrand/)
 
 # Current project :microscope:
 [Dungeons&Dragons Tool&Builder](https://github.com/Heimbrand/DungeonsAndDragons-ToolAndBuilder)
