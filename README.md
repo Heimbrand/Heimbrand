@@ -26,6 +26,7 @@ For more info: Check the repositories README.MD
 ---
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,github,mongodb,postman,powershell,bootstrap,azure,html,css&perline=5)](https://skillicons.dev)
 
+---
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Heimbrand&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
