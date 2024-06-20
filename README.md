@@ -27,7 +27,7 @@ For more info: Check the repositories README.MD
 
 ## Skills :unlock:
 ---
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,github,mongodb,postman,powershell,bootstrap,azure,html,css&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,github,mongodb,mysql,postman,powershell,bootstrap,azure,html,css&perline=5)](https://skillicons.dev)
          
 ---
 
