@@ -1,7 +1,7 @@
 ## Hello!👋 and welcome to my Portfolio :briefcase: 
 Email :envelope: : **Olle.Heimbrand@hotmail.se**
 
-Phone :phone: : 0735 100616
+Phone :phone: : +47 735100616
 
 LinkedIn :computer: : [Olle Heimbrand](https://www.linkedin.com/in/olle-heimbrand/)
 
