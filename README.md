@@ -5,7 +5,7 @@ Phone :phone: : +46 735100616
 
 LinkedIn :computer: : [Olle Heimbrand](https://www.linkedin.com/in/olle-heimbrand/)
 
-# Current project :microscope:
+# Current projects :microscope:
 [Dungeons&Dragons Tool&Builder](https://github.com/Heimbrand/DungeonsAndDragons-ToolAndBuilder)
 
 This is a passion project that combines my interest for fullstack development and the board game Dungeons and Dragons!
