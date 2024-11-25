@@ -7,6 +7,7 @@ LinkedIn :computer: : [Olle Heimbrand](https://www.linkedin.com/in/olle-heimbran
 
 # Current projects :microscope:
 [Clean Code, SOLID, TDD, DOCKER, Design patterns...](https://github.com/Heimbrand/CleanCodeLabb1)
+
 In this project i am showcasing my level of competence regarding mainly Clean Code, tdd and design patterns. The solution follows SOLID for as long as my knowledge
 reaches, with a high regard to srp. I also got a Docker set up for the project.
 
