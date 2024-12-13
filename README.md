@@ -17,8 +17,10 @@ For more info: Check the repositories README.MD
 Paralel to my DndToolAndBuilder i am also developing a tool only for dm's. 
 
 # Older projects from school :file_folder:
-[School project involving myself and 9 other team members](https://github.com/Heimbrand/MetaCortex.Payments)
-[School project involving myself and 9 other team members](https://github.com/Heimbrand/MetaCortex.Panther)
+[School group assignment where we developed one microservice each. This is the service i developed. We used RabbitMq to send data to eachother](https://github.com/Heimbrand/MetaCortex.Payments)
+
+[This repo is the gateway for the assignment mentioned above](https://github.com/Heimbrand/MetaCortex.Panther)
+
 [School project involving myself and 9 other team members](https://github.com/Heimbrand/Project-Assignment-My-biggest-school-project-)
 
 
