@@ -18,12 +18,11 @@ Paralel to my DndToolAndBuilder i am also developing a tool only for dm's.
 
 # Older projects from school :file_folder:
 [One of four microservices using RabbitMq](https://github.com/Heimbrand/MetaCortex.Payments)
+
 This whas a group assigment. The group consisted of 4 members, each developing a microservice of their own
 
 [Gateway repo](https://github.com/Heimbrand/MetaCortex.Panther)
 This is the gateway for the assignment mentioned above
-
-[School project involving myself and 9 other team members](https://github.com/Heimbrand/Project-Assignment-My-biggest-school-project-)
 
 
 [School project involving myself and 9 other team members](https://github.com/Heimbrand/Project-Assignment-My-biggest-school-project-)
