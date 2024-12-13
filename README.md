@@ -20,16 +20,18 @@ Paralel to my DndToolAndBuilder i am also developing a tool only for dm's.
 [One of four microservices using RabbitMq](https://github.com/Heimbrand/MetaCortex.Payments)
 
 This whas a group assigment. The group consisted of 4 members, each developing a microservice of their own
-
+---
 [Gateway repo](https://github.com/Heimbrand/MetaCortex.Panther)
-This is the gateway for the assignment mentioned above
 
+This is the gateway for the assignment mentioned above
+---
 
 [School project involving myself and 9 other team members](https://github.com/Heimbrand/Project-Assignment-My-biggest-school-project-)
 
 This project was a rather large assignment given to us as a group of ten from a wide variety of different education backgrounds. The focus was on implementing SCRUM to the best of our ability.
 
 For more info: Check the repositories README.MD
+---
 
 [My biggest examining individual project from school](https://github.com/Heimbrand/Efc-fullstack-blazor-sql-mongodb)
 
