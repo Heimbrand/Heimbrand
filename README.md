@@ -21,7 +21,7 @@ Paralel to my DndToolAndBuilder i am also developing a tool only for dm's.
 
 This whas a group assigment. The group consisted of 4 members, each developing a microservice of their own
 ---
-[Gateway repo](https://github.com/Heimbrand/MetaCortex.Panther)
+[Gateway repo](https://github.com/anders0b/MetaCortex.Composer)
 
 This is the gateway for the assignment mentioned above
 ---
